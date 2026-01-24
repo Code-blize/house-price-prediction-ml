@@ -71,7 +71,8 @@ jupyter notebook Obasi-Uzoma B. Module_1.ipynb
 )
 
 ### Feature Importance Analysis
-![Feature Importance](<img width="903" height="790" alt="image" src="https://github.com/user-attachments/assets/e1b0eeee-13cd-4cfd-9118-08ece773ee0b" />)
+![Feature Importance](<img width="903" height="790" alt="download" src="https://github.com/user-attachments/assets/794d3edb-c92e-4885-83f7-56dfb86934d3" />
+)
 
 ##  Conclusion
 

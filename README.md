@@ -54,14 +54,14 @@ This project compares the predictive performance of traditional ensemble methods
 ### Option 2: Local Setup
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/house-price-prediction-ml.git
+git clone https://github.com/obasi/house-price-prediction-ml.git
 cd house-price-prediction-ml
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run Jupyter Notebook
-jupyter notebook Obasi_Uzoma_B_Module_1.ipynb
+jupyter notebook Obasi-Uzoma B. Module_1.ipynb
 ```
 
 ## 📊 Results Visualization
